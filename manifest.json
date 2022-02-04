@@ -4,7 +4,8 @@
     "manifest_version": 2,
     "browser_action": {
         "default_popup": "anime_quotes.html",
-        "default_icon": "icon.png"
+        "default_icon": "./icons/128.png",
+        "default_type": "Anime quotes"
     },
     "icons": {
         "128": "./icons/128.png",
