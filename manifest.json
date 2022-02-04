@@ -1,0 +1,17 @@
+{
+    "name": "Anime Quotes",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "anime_quotes.html",
+        "default_icon": "icon.png"
+    },
+    "icons": {
+        "128": "./icons/128.png",
+        "96": "./icons/96.png",
+        "72": "./icons/72.png",
+        "64": "./icons/64.png",
+        "48": "./icons/48.png"
+    },
+    "permissions": ["activeTab"]
+}
